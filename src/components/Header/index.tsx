@@ -1,7 +1,6 @@
 import * as S from "./styles";
 import clarkeLogo from "../../assets/clarke-logo.svg";
 import { MagnifyingGlass } from "@phosphor-icons/react";
-import Button from "../Button";
 
 export interface IHeaderData {
   pageStep: string;

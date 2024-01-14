@@ -72,7 +72,7 @@ export function AllSuppliers({ suppliersFilterd }: IAllSuppliers) {
                   <td width="15%">
                     <Small color="#272221">
                       <div>
-                        {[...new Array(5)].map((arr, index) => {
+                        {[...new Array(5)].map((_arr, index) => {
                           return index < supplier.score ? (
                             <Star size={18} weight="fill" color="#f3d634" />
                           ) : (
