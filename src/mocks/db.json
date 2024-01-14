@@ -1,0 +1,44 @@
+{
+ "suppliers": [
+  {
+   "id": 1,
+   "name": "Celesc",
+   "originState": "Santa Catarina",
+   "img": "http://localhost:5173/companies/logo-celesc.png",
+   "costPerWWH": 105,
+   "minKWH": 100,
+   "customersTotal": 83000,
+   "score": 5
+  },
+  {
+   "id": 2,
+   "name": "Eletrobras",
+   "originState": "Rio de Janeiro",
+   "img": "http://localhost:5173/companies/logo-eletrobras.png",
+   "costPerWWH": 100,
+   "minKWH": 100,
+   "customersTotal": 12000,
+   "score": 5
+  },
+  {
+   "id": 3,
+   "name": "Light",
+   "originState": "Rio de Janeiro",
+   "img": "http://localhost:5173/companies/logo-light.png",
+   "costPerWWH": 110,
+   "minKWH": 50,
+   "customersTotal": 20000,
+   "score": 5
+  },
+  {
+   "id": 4,
+   "name": "Neoenergia",
+   "originState": "Rio de Janeiro",
+   "img": "http://localhost:5173/companies/neoenergia-light.svg",
+   "costPerWWH": 107,
+   "minKWH": 101,
+   "customersTotal": 5000,
+   "score": 4
+  }
+ ]
+}
